@@ -1,0 +1,25 @@
+.book-image {
+  width: 150px;
+  height: 200px;
+}
+
+.delete-note {
+  margin-left: 10px
+}
+
+h1 {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
