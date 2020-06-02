@@ -7,6 +7,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
+if (process.env.NODE_EVV === "production"){
+  app.use(express.static("client/build"));
+
 app.use(require('./controllers/authorsController.js'));
 
 app.use(require('./controllers/booksController.js'));
