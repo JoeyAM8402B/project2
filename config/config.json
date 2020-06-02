@@ -16,7 +16,7 @@
     "operatorsAliases": false
   },
   "production": {
-    "use_env_variable": "mysql://gqst3ytaf0fi7o9n:f9nz3r9pcmv5tzzs@xefi550t7t6tjn36.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/xq6lagfvl0ix3n9y",
+    "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql",
     "username": "gqst3ytaf0fi7o9n",
     "password": "f9nz3r9pcmv5tzzs",
