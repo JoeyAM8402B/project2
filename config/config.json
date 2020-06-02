@@ -16,12 +16,12 @@
     "operatorsAliases": false
   },
   "production": {
-    "use_env_variable": "mysql://xsqm9m5645o3q6d9:m841y99u8meextn6@h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/iz153scavcvrajd0",
+    "use_env_variable": "mysql://gqst3ytaf0fi7o9n:f9nz3r9pcmv5tzzs@xefi550t7t6tjn36.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/xq6lagfvl0ix3n9y",
     "dialect": "mysql",
-    "username": "h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "password": "m841y99u8meextn6",
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "gqst3ytaf0fi7o9n",
+    "password": "f9nz3r9pcmv5tzzs",
+    "database": "xq6lagfvl0ix3n9y",
+    "host": "xefi550t7t6tjn36.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "operatorsAliases": false
   }
