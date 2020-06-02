@@ -17,9 +17,9 @@
   },
   "production": {
     "use_env_variable": "mysql://xsqm9m5645o3q6d9:m841y99u8meextn6@h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/iz153scavcvrajd0",
-    "dialect": "xsqm9m5645o3q6d9",
-    "username": "m841y99u8meextn6",
-    "password": null,
+    "dialect": "mysql",
+    "username": "h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "password": "m841y99u8meextn6",
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql",
